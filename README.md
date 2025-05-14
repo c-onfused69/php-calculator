@@ -2,7 +2,7 @@
 
 A modern web-based calculator built with PHP featuring basic arithmetic operations, calculation history, and an earthy color palette.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](./screenshots/screenshot.png)
 
 ## Features ✨
 
