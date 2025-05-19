@@ -36,7 +36,7 @@ A modern web-based calculator built with PHP featuring basic arithmetic operatio
    git clone https://github.com/your-username/php-calculator.git
    cd php-calculator
    php -S localhost:8000
-   Open http://localhost:8000 in your browser
+   Open http://localhost:8000/calculator.php in your browser
 
 ## Color Palette 🎨
 Earth Tone Theme:
